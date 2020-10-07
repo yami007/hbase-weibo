@@ -15,6 +15,13 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 发布微博
+ * 关注用户
+ * 取消关注
+ * 取登录用户的初始化页面数据
+ * 获取某个人的所有微博详情
+ */
 public class HBaseDao {
 
     // 发布微博
